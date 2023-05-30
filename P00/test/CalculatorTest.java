@@ -51,8 +51,8 @@ public class CalculatorTest {
 
 	@Test
 	public void testMultiple() {
-		int a = 2222;
-		int b = 2;
+		int a = 4444;
+		int b = 1;
 
 		Calculator cal = new Calculator();
 		int actual = cal.mutiple(a, b);
